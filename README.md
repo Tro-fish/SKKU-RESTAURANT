@@ -1,3 +1,3 @@
 # SKKU RESTAURANT   
 Web programming Assignment
-html&css are used
+with html&css 
